@@ -1,4 +1,4 @@
-# Customer Review Analysis Platform - Premium Modern Design 🌟
+# Customer Review Analysis Platform - Modern Design 🌟
 
 Plateforme d'analyse automatique d'avis clients avec IA (OpenAI) - **Version moderne avec design glassmorphique premium**.
 
@@ -194,5 +194,3 @@ Toutes les couleurs, espacements et effets sont définis dans `src/style.css` :
 - Les deux projets (original et nouveau) peuvent tourner simultanément sur des ports différents
 
 ---
-
-**✨ Profitez du nouveau design premium ! ✨**
